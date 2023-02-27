@@ -16,7 +16,7 @@ public class GitPracticeTwo {
 	public int test(int x, int y, String message){
 		
 		System.out.print(message);
-		int a = x + y;
+		int a = x / y;
 		return a;
 	}
 	
