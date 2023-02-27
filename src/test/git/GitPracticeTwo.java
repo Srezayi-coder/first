@@ -12,5 +12,13 @@ public class GitPracticeTwo {
 		int result = a * b;
 		return result;
 	}
+	
+	public int test(int x, int y, String message){
+		
+		System.out.print(message);
+		int a = x + y;
+		return a;
+	}
+	
 
 }
